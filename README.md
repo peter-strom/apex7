@@ -7,12 +7,12 @@ After two years of normal use, my daughter's keyboard died in the middle of a ga
 <br><img src="https://github.com/peter-strom/apex7/blob/7f77f5aedef96dc7562f0562d800369d29a9c53c/doc/overview.jpg" width="600" >
 <img src="https://github.com/peter-strom/apex7/blob/7f77f5aedef96dc7562f0562d800369d29a9c53c/doc/b1.jpg" width="600" >
 <br>
-Tore the keyboard apart and found some testpads that was easy to meassure on. 
-*The 5V pad gave me only 0.8V. 
-*The fuse F1 looked okay.
-*B1 (inductor) had an open circuit (probable for a filter to pass EMC)..
-Replaced the inductor with a 0 ohm resistor, and plugged the keyboard in to a usb charger. 
-*The 5V pad now gave me 5V.
+Tore the keyboard apart and found some testpads that was easy to meassure on. <br>
+* The 5V pad gave me only 0.8V. <br>
+* The fuse F1 looked okay.<br>
+* B1 (inductor) had an open circuit (probable for a filter to pass EMC)..<br>
+Replaced the inductor with a 0 ohm resistor, and plugged the keyboard in to a usb charger. <br>
+* The 5V pad now gave me 5V.
 <br><br>
 
 <img src="https://github.com/peter-strom/apex7/blob/abfc9cf51497f0392749b4e602e1d57260660c41/doc/mcu2.png" width="600" >
@@ -30,6 +30,6 @@ Didn't take long before it smelled burned circuits and the hot parts were locate
 
 <img src="https://github.com/peter-strom/apex7/blob/7f77f5aedef96dc7562f0562d800369d29a9c53c/doc/working.jpg" width="600" >
 <br>
-Atleast the keyboard is working again.  I have asked steelsieres if they can give me some partnumbers for the damadged parts. Finger crossed. 
+Atleast the keyboard is working again.  I have asked steelsieres if they can give me the partnumbers for the damadged parts. Finger crossed. 
 
 <br><br>to be continued...
