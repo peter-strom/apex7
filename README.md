@@ -1,5 +1,5 @@
 # Steelseries apex 7 TLK repair
-For about two years ago i bought a keyboard for each of my children.
+About two years ago, I bought a keyboard for each of my two kids.
 I chose steelseries because i don't like unnecessary consumption and i thought this keyboard would last for decades. 
 Clearly i had wrong. 
 <br>
